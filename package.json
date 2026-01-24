@@ -1,0 +1,15 @@
+{
+  "name": "stadiacontroller",
+  "description": "A backup of the firmware tool for Stadia controllers.",
+  "scripts": {
+    "format": "prettier --write .",
+    "format:check": "prettier --check ."
+  },
+  "packageManager": "pnpm@9.15.1+sha256.9e534e70afef06374f6126b44bda5760947135ce16a30aef1010e965fb7e3e3e",
+  "devDependencies": {
+    "prettier": "^3.8.1"
+  },
+  "engines": {
+    "node": "24"
+  }
+}
